@@ -5,7 +5,7 @@ I would like to say that I am a self-taught developer, but I find that I still h
 So instead I refer to myself as a continuously learning enthusiast in the world of software development.
 
 ## What I'm working on
-Currently I'm trying to get an apprenticeship in the Country that I live, meanwhile though you may want to see my public repositories. They're little to none Public, but that just because I found the other to not be good enough to display.
+Currently I'm trying to get an apprenticeship in the Country that I live, meanwhile though you may want to see my public repositories. There's little to none Public, but that just because I found the others to not be good enough to display.
 
 ## Contact
 You can contact me through the given Links at any time, my E-Mail is also always reachable.
